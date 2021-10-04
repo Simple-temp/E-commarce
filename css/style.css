@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+.extra-class {
+    max-width: 1060px;
+}
+.logo 
+{
+    width:70px;
+    height:auto;
+}
+section 
+{
+    margin-bottom:100px;
+}
+section::after,
+section ::before
+{
+    content:"";
+    display:block;
+    clear:both;
+}
+.carosel-bg
+{
+    background-color: rgb(0, 153, 255);
+    padding:15px;
+}
