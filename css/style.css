@@ -149,3 +149,12 @@ section ::before
     width:340px;
     height:auto;
 }
+.img-fix
+{
+    width:150px;
+    height:auto;
+}
+.apple-img
+{
+    margin-top:28px;
+}
