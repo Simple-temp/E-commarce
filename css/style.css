@@ -24,7 +24,7 @@ section ::before
 }
 .carosel-bg
 {
-    background-color: rgba(112, 112, 112, 0.637);
+    background-color: rgba(235, 235, 235, 0.637);
     padding:15px;
     margin-top:60px;
 }
@@ -107,4 +107,45 @@ section ::before
     text-decoration: none;
     color:#000;
     cursor:pointer;
+}
+.item-3
+{
+    box-shadow: 1px 1px 4px rgb(194, 194, 194);
+}
+.align-set-this
+{
+    margin:0 auto;
+    text-align:center;
+}
+.align-set-this .submit-btn-con
+{
+    margin-top:13px;
+    color:#fff;
+    background-color: rgb(27, 27, 27);
+    padding:2px 16px;
+    border-radius:4px;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    -ms-border-radius:4px;
+    -o-border-radius:4px;
+    font-weight:bold;
+}
+.get-it .extra-class
+{
+    background-color: rgb(231, 231, 231);
+    padding:50px 0;
+}
+.get-it .input-box 
+{
+    border:none;
+    padding:6px 10px;
+}
+:focus
+{
+    outline:none;
+}
+.img-height-lp
+{
+    width:340px;
+    height:auto;
 }
